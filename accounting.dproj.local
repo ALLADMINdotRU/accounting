@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.912,=C:\Users\FIL\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.380,=C:\Users\FIL\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.963,=C:\Users\FIL\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.686,=C:\Users\FIL\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.687,=C:\Users\FIL\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.081,=C:\Users\FIL\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.080,=C:\Users\FIL\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.047,=C:\Users\FIL\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023.02.08 00:38:47.018,=C:\Users\FIL\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023.02.08 00:40:42.058,C:\Users\FIL\Desktop\PROGRAMMING\НОВАЯ ПРОГРАММА УЧЕТА\fmStart.pas=C:\Users\FIL\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023.02.08 00:40:42.058,C:\Users\FIL\Desktop\PROGRAMMING\НОВАЯ ПРОГРАММА УЧЕТА\fmStart.dfm=C:\Users\FIL\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2023.02.08 00:40:51.720,C:\Users\FIL\Desktop\PROGRAMMING\НОВАЯ ПРОГРАММА УЧЕТА\accounting.dproj=C:\Users\FIL\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
